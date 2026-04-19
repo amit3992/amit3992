@@ -17,6 +17,7 @@ I like building things to learn new tech and have fun with friends. Most of my r
 
 ## Current Projects
 
+- 🫧 **[blurify](https://github.com/amit3992/blurify)** - Chrome extension that blurs brand logos and text in YouTube videos using Claude vision, with a user allowlist
 - ⌨️ **[fpl-cli](https://github.com/amit3992/fpl-cli)** - Command-line tool for Fantasy Premier League
 - 🤖 **[my-portfolio-bot](https://github.com/amit3992/my-portfolio-bot)** - Python-powered bot companion for my portfolio
 
